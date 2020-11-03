@@ -1,0 +1,261 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Cyclops",
+      "alterEgo": "Scott Summers",
+      "abilities": [
+        "Optic force blasts",
+        "Master tactician"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marvel Girl",
+      "alterEgo": "Jean Grey",
+      "abilities": [
+        "Telekinesis",
+        "Telepathy",
+        "Astral projection"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beast",
+      "alterEgo": "Hank McCoy",
+      "abilities": [
+        "Genius-level intellect",
+        "Animal-like physiology with enhanced physical attributes and sharp claws and teeth"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Angel",
+      "alterEgo": "Warren Worthington III",
+      "abilities": [
+        "Flight via feathered wings and hollow bones",
+        "Aerial adaptation",
+        "Enhanced physical prowess"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Iceman",
+      "alterEgo": "Bobby Drake",
+      "abilities": [
+        "Cold and ice manipulation",
+        "Ability to assume an enhanced physical form made of solid ice"
+      ]
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 10
+    },
+    {
+      "name": "aleks",
+      "alterego": "NON",
+      "power": "JE SAIS PAS",
+      "id": 11
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 21
+    },
+    {
+      "name": "ALEKS",
+      "alterego": "SLO",
+      "power": "FEU",
+      "id": 22
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 32
+    },
+    {
+      "name": "mike",
+      "alterego": "bike",
+      "power": "firestorm",
+      "id": 33
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 36
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 37
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 38
+    },
+    {
+      "name": "",
+      "alterego": "",
+      "power": "",
+      "id": 39
+    },
+    {
+      "name": "benji",
+      "alterego": "art man",
+      "power": "storm maker",
+      "id": 40
+    }
+  ]
+}
